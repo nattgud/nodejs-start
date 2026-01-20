@@ -1,3 +1,8 @@
+# NodeJS start
+En enkel startapp för att se flödet mellan klient-javascript och html till backend och mysql.
+
+## Installation
+
 1.  Installera nodejs (LTS): https://nodejs.org/en/download
 2.  Testa nodejs
 	  1. Öppna terminal (terminal > new terminal)
@@ -13,3 +18,7 @@
 	  1. Skriv (i terminalen): npm install express
 	  2. Skriv (i terminalen): npm install mysql2
 5.  Klart!
+
+## Notera!
+
+Glöm inte ändra lösenord (och eventuellt användarnamn) och databas i *db.js*
